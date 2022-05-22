@@ -1,20 +1,5 @@
 # Hello!
 
-<!--
-**ntoscano01/ntoscano01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 This is my personal rep[ository.  This repository is used to store cetificate work, personal projects, acadmic projects, and volunteer work.  I have an additional GitHub profile <a href="https://github.com/nicktoscano">here</a>.
 
 
@@ -38,6 +23,29 @@ This is my personal rep[ository.  This repository is used to store cetificate wo
 * Managed platform implementations, grew user communities, and expanded software usage within national security agencies.
 * Developed technology implementation solutions, data services, and GIS workflows for installations, logistics, security, human resources, workforce education, and intelligence operations business areas        
 * Helped initiate cross-agency working groups for testing/using new GIS solutions and methodologies to identify anomalies, patterns, and associations within large data sets
+
+## Eduction:
+<hr style="border: none;">
+
+### Syracuse University, Whitman School of Management
+*	MBA, Concentration in Finance and Data Analytics / Dean’s List 
+
+### University of West Florida
+*	Bachelors of Certificate in GIS and Cartography / Dean’s List
+
+### Cochise College 
+*	Associate of Applied Science in Intelligence Operations
+
+### Fairmont State College 
+*	Bachelor of Science in Finance, Marketing, and Management
+
+### US Army Military Intelligence School 
+*	Military Intelligence Advanced Individual Training 
+* Completed Military Intelligence Officer Basic Training 
+
+
+
+
 
 
 

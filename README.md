@@ -21,7 +21,7 @@ This is my personal rep[ository.  This repository is used to store cetificate wo
 ### Experieince:
 <hr style="border: none;">
 
-#### <p style="color:blue;">Oracle: Cloud Solution Engineer / Machine Learning Engineer </p>
+<p style="color:blue;">Oracle: Cloud Solution Engineer / Machine Learning Engineer </p>
 
 •	Providing thought leadership and technical expertise to National Intelligence Community and Department of Defense customers transitioning to cloud infrastructure.
 •	Help the National Intelligence Community and Department of Defense with implementing data science solutions and transition them to enterprise cloud platform, where appropriate.

@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello!
 
 <!--
 **ntoscano01/ntoscano01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+This is my personal rep[ository.  This repository is used to store cetificate work, personal projects, acadmic projects, and volunteer work.  I have an additional GitHub profile <a href=" https://github.com/nicktoscano">here</a>.

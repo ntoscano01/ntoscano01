@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is my personal rep[ository.  This repository is used to store cetificate work, personal projects, acadmic projects, and volunteer work.  I have an additional GitHub profile <a href=" https://github.com/nicktoscano">here</a>.
+This is my personal rep[ository.  This repository is used to store cetificate work, personal projects, acadmic projects, and volunteer work.  I have an additional GitHub profile <a href="https://github.com/nicktoscano">here</a>.

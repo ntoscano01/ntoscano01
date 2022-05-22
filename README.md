@@ -19,7 +19,7 @@ This is my personal rep[ository.  This repository is used to store cetificate wo
 
 
 ### Experieince:
-hr { display: block; margin-before: 0.5em; margin-after: 0.5em; margin-start: auto; margin-end: auto; overflow: hidden; border-style: inset; border-width: 1px;}
+<hr style="border: none;">
 
 #### Oracle Cloud Solution Engineer / Machine Learning Engineer 
 

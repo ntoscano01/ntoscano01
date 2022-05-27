@@ -29,7 +29,13 @@ This is my personal rep[ository.  This repository is used to store cetificate wo
 * Provided consultation for dentation operations
 * Provided geospatial analysis and automated geospatial analysis products in support of military operations
 * Developed processing, exploitation, and dissemination support package for UAV operations
-* Modeled networks and activities to understand suitability and pattern of life.
+* Modeled networks and activities to understand suitability and pattern of life
+
+## Work Study – Fairmont State University, WV
+* Worked in accounts receivables/account payable.  Assisted with billing collections and payments.
+* Worked in mail room and copy center.  Managed all inbound and outbound mail.
+* Worked at physcial plant.  Conducted invetories and assisted with campus supply management 
+* Developed excel workbooks to automated quarterly and annual reports at the business office
 
 
 ## Eduction:

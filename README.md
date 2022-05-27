@@ -58,6 +58,14 @@ This is my personal rep[ository.  This repository is used to store cetificate wo
 * Completed Military Intelligence Officer Basic Training 
 
 
+## Professional Training
+Influencer (Vital Smarts), Crucial Conversations (Vital Smarts), Crucial Accountability (Vital Smarts), The 5 Choices to Extraordinary Productivity (Franklin Covey), Presentation Advantage (Franklin Covey), The 7 Habits of Highly Effective People (Franklin Covey), Working with CAD in ArcGIS (Esri), Portal-Server Boot Camp (Esri), Tips, Tricks, & Techniques for Demonstrating ArcGIS (Esri), Emotional Intelligence (Vital Smarts), Project Management Essentials. Various GIS courses through Esri Training resources.  Palanitir training. UDEMY Coursework: Python and R, Oracle Cloud Associate
+
+
+## Awards
+Bronze Star, 2 Army Accommodation Medals, Good Conduct Medal, Achievement Medal, German Parachute Badge, German Physical Fitness Badge, Military Volunteer Service Award, Good Conduct Medal, Certificate of Appreciation from the Defense intelligence Agency, Letter of Appreciation from the Afghanistan National Police.
+
+
 
 
 

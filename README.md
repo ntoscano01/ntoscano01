@@ -6,23 +6,31 @@ This is my personal rep[ository.  This repository is used to store cetificate wo
 ## Experieince:
 <hr style="border: none;">
 
-### Oracle: Cloud Solution Engineer / Machine Learning Engineer 
+### Cloud Solution Engineer / Machine Learning Engineer 
 
 * Provide technical expertise to the Intelligence Community and Department of Defense customers transitioning to machine learning on cloud infrastructure
 * Support proposal development and response activities
 
-### MITRE Corporation: Lead Data Scientist / Spatial Engineer
+### Lead Data Scientist / Spatial Engineer
 * Supported document media and exploitation integration into national security workflows
 * Developed requirements, tested capabilities, and integrated advanced machine learning applications into national security workflows
 * Developed and led national security multi-agency geospatial group
 * Led development of advanced GIS analysis tools; and geospatial training; and conducted requirements meetings with stakeholders for national security customers
 
-### Esri: Technical Account Manager
+### Technical Account Manager
 
 * Delivered consultation on Esri software, professional services solutions, training resources, and technical support options to national intelligence community customers and business partners 
 * Managed platform implementations, grew user communities, and expanded software usage within national security agencies.
 * Developed technology implementation solutions, data services, and GIS workflows for installations, logistics, security, human resources, workforce education, and intelligence operations business areas        
 * Helped initiate cross-agency working groups for testing/using new GIS solutions and methodologies to identify anomalies, patterns, and associations within large data sets
+
+### Senior Intelligence Analyst/Data scientist 
+* Provided multi-INT intelligence support for military operations  
+* Provided consultation for dentation operations
+* Provided geospatial analysis and automated geospatial analysis products in support of military operations
+* Developed processing, exploitation, and dissemination support package for UAV operations
+* Modeled networks and activities to understand suitability and pattern of life.
+
 
 ## Eduction:
 <hr style="border: none;">
